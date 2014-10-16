@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cok:home|Door43 (cok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cok|d43-cok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cok/archive/master.zip|d43-cok.zip]]
+
+**Recent Changes**
+{{changes>ns = cok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cok|Ethnologue data]]
+
